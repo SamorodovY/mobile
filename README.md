@@ -5,3 +5,4 @@
 - [Отчёт о дефектах мобильного приложения](https://docs.google.com/spreadsheets/d/1rpUk4Lyt6LaP8c4SziGjO7J6HbJNrX6K/edit?usp=sharing&ouid=113395346112533326169&rtpof=true&sd=true)
 - [Тестовый прогон Mobile App Testing (pdf)](https://drive.google.com/file/d/1tILIZ7Sd_4_f9KIFoEyu8OU7TCB34ZU1/view?usp=sharing)
 - [Отчет по результатам тестирования](https://docs.google.com/document/d/1K96-sE7i-u4VKwY4gkuXWshnZt4MzaBr/edit?usp=sharing&ouid=113395346112533326169&rtpof=true&sd=true)
+- [Перехват и измена трафика мобильного устройства](https://drive.google.com/file/d/1-mxXGj5teVIK0kqavG2cl7SdK2d1VoTU/view?usp=sharing)
